@@ -7,6 +7,15 @@ As a web enthusiast, I thrive on creating seamless and intuitive digital experie
 ### 💡 Approach
 With a keen eye for design and a commitment to clean, maintainable code, I bring ideas to life by transforming concepts into visually appealing and user-friendly websites. I'm always up-to-date with the latest web technologies, ensuring that the solutions I build are modern, efficient, and scalable.
 
+<div align="center">
+    <a href="https://github.com/MehtabSJ003"">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MehtabSJ003&theme=bear&show_icons=true" alt="Mehtab's GitHub Stats">
+    </a>
+    <a href="https://github.com/MehtabSJ003">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabSJ003&theme=bear&hide_progress=true&layout=compact" alt="Top Languages">
+    </a>
+</div>
+
 ## :hammer_and_wrench: Tools and Technologies
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
