@@ -37,6 +37,3 @@ With a keen eye for design and a commitment to clean, maintainable code, I bring
   <a href="https://github.com/MehtabSJ003" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/mehtab-singh-jagde-01313925b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-Happy coding! 🚀
-
